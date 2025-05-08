@@ -1,0 +1,1 @@
+This repository contains the prompt used to generate step-by-step-support, as well as the python notebook used. It further contains a few examples of step-by-step scaffolding that were generated.
